@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.env
+.env.local
+.env.production
+*.pem
+*.key
+secrets/
+
+.idea/
+.vscode/
+staticfiles/
